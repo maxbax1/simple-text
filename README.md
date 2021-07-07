@@ -1,2 +1,2 @@
-# simple-text
+# Hello world
 Sample
